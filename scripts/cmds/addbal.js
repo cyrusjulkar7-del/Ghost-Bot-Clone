@@ -17,7 +17,7 @@ function parseAmount(str) {
 module.exports = {
   config: {
     name: "addbal",
-    aliases: ["addmoney", "setbal", "removebal", "subtractbal"],
+    aliases: ["addmoney", "removebal", "subtractbal"],
     version: "2.0",
     author: "Rakib Islam",
     countDown: 5,
